@@ -1,0 +1,1 @@
+# alura-ia-7-analise-semantica-arquivo
